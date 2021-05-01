@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[json]": {
+        
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+}
